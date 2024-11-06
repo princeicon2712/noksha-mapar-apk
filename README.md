@@ -64,3 +64,6 @@ Altimeat setting in Daimantion setting
 
 ## দলিলের ডাউনলোড নাম :- 
 bdfile.in web sid থেকে সব সেবা। 
+
+
+## ICl কমান্ট ব্যাবহার করে মুল ম্যাপ প্রেন্টাগ্রাফে নিয়ে দেখানু যায়। 
