@@ -26,7 +26,9 @@
 ## Google eirth
 
 view
+
 resat
+
 tile and compas 
 
 পরে save 
