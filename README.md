@@ -23,7 +23,7 @@
 
 ডাইমেনসন ম্যাপ
 
-## Google eirth
+## Google eirth save image
 
 view
 
@@ -31,7 +31,14 @@ resat
 
 tile and compas 
 
-পরে save 
+পরে save বাটনে ক্লিক করতে হবে
+
+(১) map Option ---(1) scal,(2) compas ঠিক রাখতে হবে
+
+(1) 1920*1280 HD
+
+পরো save করতে হবে। শেষ
+
 
 
 
