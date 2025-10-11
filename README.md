@@ -29,7 +29,7 @@ view
 
 resat
 
-tile and compas 
+tile and compas [ north line Thik thakbe]
 
 পরে save বাটনে ক্লিক করতে হবে
 
