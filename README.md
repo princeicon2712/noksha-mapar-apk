@@ -151,6 +151,8 @@ RE এন্টার করে লিখা গুলো দেখতে হব
 
 ## Alternative unit autocad and Gnacad
 
+Gnacad Daimantion setting তে টিপ দিয়ে on করতে হবে।
+
 
 ### link 
 1in=0.66 feet
