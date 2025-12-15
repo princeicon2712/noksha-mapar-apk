@@ -147,3 +147,19 @@ bdfile.in web sid থেকে সব সেবা।
 (4) যতটুকু দরকার crope করতে হবে।
 
 RE এন্টার করে লিখা গুলো দেখতে হবে
+
+
+## Alternative unit autocad and Gnacad
+
+
+### link 
+1in=0.66 feet
+0.66*12= 7.92 inc
+1inc/7.92= 0.12626 link
+
+
+### miter 
+1inc=2.54 cm
+100cm= 1miter
+2.54/100=0.0254 miter দিতে হবে
+
