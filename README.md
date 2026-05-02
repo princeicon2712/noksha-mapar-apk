@@ -165,3 +165,7 @@ Gnacad Daimantion setting তে টিপ দিয়ে on করতে হব�
 100cm= 1miter
 2.54/100=0.0254 miter দিতে হবে
 
+## cad eirth দিয়ে kml তৈরি করা 
+
+https://youtu.be/D4anEP7L6Fs?si=UxkhgZe6A_fxw4bo
+
