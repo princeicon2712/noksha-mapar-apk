@@ -169,3 +169,5 @@ Gnacad Daimantion setting তে টিপ দিয়ে on করতে হব�
 
 https://youtu.be/D4anEP7L6Fs?si=UxkhgZe6A_fxw4bo
 
+বাজার নিজের বিদুৎ বিল:- 106203258252526021
+
